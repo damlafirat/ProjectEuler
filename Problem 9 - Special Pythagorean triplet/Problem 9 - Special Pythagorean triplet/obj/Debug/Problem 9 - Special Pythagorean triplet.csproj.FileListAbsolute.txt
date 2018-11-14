@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\bin\Debug\Problem 9 - Special Pythagorean triplet.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\bin\Debug\Problem 9 - Special Pythagorean triplet.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\bin\Debug\Problem 9 - Special Pythagorean triplet.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\obj\Debug\Problem 9 - Special Pythagorean triplet.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\obj\Debug\Problem 9 - Special Pythagorean triplet.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 9 - Special Pythagorean triplet\Problem 9 - Special Pythagorean triplet\obj\Debug\Problem 9 - Special Pythagorean triplet.pdb

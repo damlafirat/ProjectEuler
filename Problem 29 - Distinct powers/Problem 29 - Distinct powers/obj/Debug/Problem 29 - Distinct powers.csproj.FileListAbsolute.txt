@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\bin\Debug\Problem 29 - Distinct powers.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\obj\Debug\Problem 29 - Distinct powers.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\bin\Debug\Problem 29 - Distinct powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\bin\Debug\Problem 29 - Distinct powers.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\obj\Debug\Problem 29 - Distinct powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 29 - Distinct powers\Problem 29 - Distinct powers\obj\Debug\Problem 29 - Distinct powers.pdb

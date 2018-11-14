@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 12 - Highly divisible triangular numb", "Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb.csproj", "{7646FA60-1F71-43BB-9835-B083528D696F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7646FA60-1F71-43BB-9835-B083528D696F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7646FA60-1F71-43BB-9835-B083528D696F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7646FA60-1F71-43BB-9835-B083528D696F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7646FA60-1F71-43BB-9835-B083528D696F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

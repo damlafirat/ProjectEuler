@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\bin\Debug\Problem 12 - Highly divisible triangular numb.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\bin\Debug\Problem 12 - Highly divisible triangular numb.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\bin\Debug\Problem 12 - Highly divisible triangular numb.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\obj\Debug\Problem 12 - Highly divisible triangular numb.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\obj\Debug\Problem 12 - Highly divisible triangular numb.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 12 - Highly divisible triangular numb\Problem 12 - Highly divisible triangular numb\obj\Debug\Problem 12 - Highly divisible triangular numb.pdb

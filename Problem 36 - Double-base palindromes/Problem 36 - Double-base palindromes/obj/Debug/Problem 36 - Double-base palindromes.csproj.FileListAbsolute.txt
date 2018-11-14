@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\bin\Debug\Problem 36 - Double-base palindromes.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\bin\Debug\Problem 36 - Double-base palindromes.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\bin\Debug\Problem 36 - Double-base palindromes.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\obj\Debug\Problem 36 - Double-base palindromes.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\obj\Debug\Problem 36 - Double-base palindromes.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 36 - Double-base palindromes\Problem 36 - Double-base palindromes\obj\Debug\Problem 36 - Double-base palindromes.pdb

@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\bin\Debug\Problem 16 - Power digit sum.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\bin\Debug\Problem 16 - Power digit sum.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\bin\Debug\Problem 16 - Power digit sum.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\obj\Debug\Problem 16 - Power digit sum.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\obj\Debug\Problem 16 - Power digit sum.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 16 - Power digit sum\Problem 16 - Power digit sum\obj\Debug\Problem 16 - Power digit sum.pdb

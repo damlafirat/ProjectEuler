@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\bin\Debug\Problem 48 - Self powers.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\bin\Debug\Problem 48 - Self powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\bin\Debug\Problem 48 - Self powers.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\obj\Debug\Problem 48 - Self powers.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\obj\Debug\Problem 48 - Self powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 48 - Self powers\Problem 48 - Self powers\obj\Debug\Problem 48 - Self powers.pdb

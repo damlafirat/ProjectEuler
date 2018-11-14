@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\bin\Debug\Problem 14 - Longest Collatz sequence.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\bin\Debug\Problem 14 - Longest Collatz sequence.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\bin\Debug\Problem 14 - Longest Collatz sequence.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\obj\Debug\Problem 14 - Longest Collatz sequence.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\obj\Debug\Problem 14 - Longest Collatz sequence.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 14 - Longest Collatz sequence\Problem 14 - Longest Collatz sequence\obj\Debug\Problem 14 - Longest Collatz sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\bin\Debug\Problem 7 - 10001st prime.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\bin\Debug\Problem 7 - 10001st prime.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\bin\Debug\Problem 7 - 10001st prime.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\obj\Debug\Problem 7 - 10001st prime.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\obj\Debug\Problem 7 - 10001st prime.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 7 - 10001st prime\Problem 7 - 10001st prime\obj\Debug\Problem 7 - 10001st prime.pdb

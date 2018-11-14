@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\bin\Debug\Problem 4 - Largest palindrome product.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\bin\Debug\Problem 4 - Largest palindrome product.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\bin\Debug\Problem 4 - Largest palindrome product.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\obj\Debug\Problem 4 - Largest palindrome product.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\obj\Debug\Problem 4 - Largest palindrome product.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 4 - Largest palindrome product\Problem 4 - Largest palindrome product\obj\Debug\Problem 4 - Largest palindrome product.pdb

@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\bin\Debug\Problem 34 - Digit factorials.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\bin\Debug\Problem 34 - Digit factorials.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\bin\Debug\Problem 34 - Digit factorials.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\obj\Debug\Problem 34 - Digit factorials.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\obj\Debug\Problem 34 - Digit factorials.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 34 - Digit factorials\Problem 34 - Digit factorials\obj\Debug\Problem 34 - Digit factorials.pdb

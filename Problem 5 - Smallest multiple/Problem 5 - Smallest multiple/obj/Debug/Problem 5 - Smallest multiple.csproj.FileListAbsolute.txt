@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\bin\Debug\Problem 5 - Smallest multiple.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\bin\Debug\Problem 5 - Smallest multiple.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\bin\Debug\Problem 5 - Smallest multiple.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\obj\Debug\Problem 5 - Smallest multiple.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\obj\Debug\Problem 5 - Smallest multiple.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 5 - Smallest multiple\Problem 5 - Smallest multiple\obj\Debug\Problem 5 - Smallest multiple.pdb

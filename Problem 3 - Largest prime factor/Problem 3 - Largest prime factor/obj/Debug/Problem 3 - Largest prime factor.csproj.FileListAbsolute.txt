@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\bin\Debug\Problem 3 - Largest prime factor.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\bin\Debug\Problem 3 - Largest prime factor.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\bin\Debug\Problem 3 - Largest prime factor.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\obj\Debug\Problem 3 - Largest prime factor.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\obj\Debug\Problem 3 - Largest prime factor.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 3 - Largest prime factor\Problem 3 - Largest prime factor\obj\Debug\Problem 3 - Largest prime factor.pdb

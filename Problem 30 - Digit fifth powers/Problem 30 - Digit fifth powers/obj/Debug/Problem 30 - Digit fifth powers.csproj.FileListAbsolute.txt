@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\bin\Debug\Problem 30 - Digit fifth powers.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\bin\Debug\Problem 30 - Digit fifth powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\bin\Debug\Problem 30 - Digit fifth powers.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\obj\Debug\Problem 30 - Digit fifth powers.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\obj\Debug\Problem 30 - Digit fifth powers.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 30 - Digit fifth powers\Problem 30 - Digit fifth powers\obj\Debug\Problem 30 - Digit fifth powers.pdb

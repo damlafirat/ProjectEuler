@@ -1,0 +1,6 @@
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\bin\Debug\Problem 6 - Sum square difference.exe.config
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\obj\Debug\Problem 6 - Sum square difference.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\bin\Debug\Problem 6 - Sum square difference.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\bin\Debug\Problem 6 - Sum square difference.pdb
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\obj\Debug\Problem 6 - Sum square difference.exe
+C:\Users\damla\Desktop\ProjectEuler\Problem 6 - Sum square difference\Problem 6 - Sum square difference\obj\Debug\Problem 6 - Sum square difference.pdb
